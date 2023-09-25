@@ -1,0 +1,15 @@
+/Users/ahmetbalaman/Projects/MusicProgram/MusicProgram/obj/Debug/net7.0/MusicProgram.csproj.AssemblyReference.cache
+/Users/ahmetbalaman/Projects/MusicProgram/MusicProgram/obj/Debug/net7.0/MusicProgram.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmetbalaman/Projects/MusicProgram/MusicProgram/obj/Debug/net7.0/MusicProgram.AssemblyInfoInputs.cache
+/Users/ahmetbalaman/Projects/MusicProgram/MusicProgram/obj/Debug/net7.0/MusicProgram.AssemblyInfo.cs
+/Users/ahmetbalaman/Projects/MusicProgram/MusicProgram/obj/Debug/net7.0/MusicProgram.csproj.CoreCompileInputs.cache
+/Users/ahmetbalaman/Projects/MusicProgram/MusicProgram/bin/Debug/net7.0/MusicProgram
+/Users/ahmetbalaman/Projects/MusicProgram/MusicProgram/bin/Debug/net7.0/MusicProgram.deps.json
+/Users/ahmetbalaman/Projects/MusicProgram/MusicProgram/bin/Debug/net7.0/MusicProgram.runtimeconfig.json
+/Users/ahmetbalaman/Projects/MusicProgram/MusicProgram/bin/Debug/net7.0/MusicProgram.dll
+/Users/ahmetbalaman/Projects/MusicProgram/MusicProgram/bin/Debug/net7.0/MusicProgram.pdb
+/Users/ahmetbalaman/Projects/MusicProgram/MusicProgram/obj/Debug/net7.0/MusicProgram.dll
+/Users/ahmetbalaman/Projects/MusicProgram/MusicProgram/obj/Debug/net7.0/refint/MusicProgram.dll
+/Users/ahmetbalaman/Projects/MusicProgram/MusicProgram/obj/Debug/net7.0/MusicProgram.pdb
+/Users/ahmetbalaman/Projects/MusicProgram/MusicProgram/obj/Debug/net7.0/MusicProgram.genruntimeconfig.cache
+/Users/ahmetbalaman/Projects/MusicProgram/MusicProgram/obj/Debug/net7.0/ref/MusicProgram.dll
